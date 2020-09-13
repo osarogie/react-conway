@@ -1,0 +1,23 @@
+{
+  "name": "react-conway",
+  "version": "1.0.0",
+  "description": "A React implementation of Conway's Game of Life",
+  "main": "pages/index.js",
+  "repository": "https://github.com/osarogie/react-conway",
+  "author": "Emmanuel Nosakhare",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "dependencies": {
+    "immer": "^7.0.9",
+    "next": "^9.5.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.1.1"
+  }
+}
